@@ -2,7 +2,7 @@
 title: My steps into building this IO page 
 ---
 
-- Create the repository:
+- Creating the repository:
     - name the new repos ```github_account_name.io``` 
     - add a theme to the repos from the ```settings``` tab in github 
 - Using a bootstrap theme
