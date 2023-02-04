@@ -2,8 +2,7 @@
 title: Github star, fork, and watch stats. 
 ---
 
-I was looking into knowing who are those who fork, star, and watch my GitHub repositories at the same time. After a few minutes 
-spent trying to find something that does that, but in vain, I decided to work on [this script](https://github.com/dragona/github-stat).
+I attempted to find a solution that would allow me to track who forks, stars, and watches my GitHub repositories simultaneously. However, after a brief search, I was unable to find such a tool. As a result, I decided to work on [this script](https://github.com/dragona/github-stat).
 
 
 This ```https://github.com/nelsonic/github-scraper``` is an exciting GitHub scraper but one, it is not in python and two it only reports the watchers, stars and forks counts

@@ -2,7 +2,7 @@
 title: I should not forget to read the License next time 
 ---
 
-I just came to know the very importance of reading the License of the projects on Github that I use after using [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+I recently learned the significance of reading the license of the GitHub projects I use, after neglecting to do so in the past and using [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 
  
