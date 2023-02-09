@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: I have to recognize that there are quite a lot that I do not know I do not know yet.
+title: Sharing my journey of learning and growth through personal note-taking on Dragona. 
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Tools and utilities
+  Hoping to create a resource that may be of help to others on their own path of discovery.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
