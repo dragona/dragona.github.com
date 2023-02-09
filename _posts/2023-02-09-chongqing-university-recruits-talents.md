@@ -1,7 +1,3 @@
-<h1> Chongqing University recruits talents all the year round
-<img src="https://api.github.com/repos/dragona/dragona.github.com/traffic/views?per=day" />
-</h1>
-
 
 Based on my understanding of the content from [CQU's HR website](http://rsc.cqu.edu.cn/info/1039/2965.htm) :
 
