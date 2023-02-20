@@ -14,6 +14,5 @@ The app starts with a photo of a nail taken by a user. It then uses a device-bas
 Tiwari filed for a U.S. patent for his invention in 2021. He was granted a patent in Germany last year.
 
 
-...
 
-Source: https://spectrum.ieee.org/app-identifies-nutrient-deficiencies
+[Source](https://spectrum.ieee.org/app-identifies-nutrient-deficiencies)
